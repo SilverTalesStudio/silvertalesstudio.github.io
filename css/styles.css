@@ -974,7 +974,6 @@ progress {
 
   .col-sm-6 {
     flex: 0 0 auto;
-    width: 50%;
   }
 
   .col-sm-7 {
@@ -1390,7 +1389,7 @@ progress {
 
   .col-lg-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 100%;
   }
 
   .col-lg-5 {
@@ -11694,7 +11693,7 @@ header.masthead .masthead-heading {
     margin-left: -75px;
   }
   .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 26px;
     margin-top: 30px;
   }
@@ -11746,7 +11745,7 @@ section#contact {
   background-position: center;
 }
 section#contact .section-heading {
-  color: #fff;
+  color: #6c757d;
 }
 section#contact form#contactForm .form-group {
   margin-bottom: 1.5rem;
